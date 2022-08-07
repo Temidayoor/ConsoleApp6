@@ -19,11 +19,7 @@ namespace Access_Modifier
 
         }
     }
-}
 
-
-namespace Access_Modifier
-{
     public class car
     {
         public string color { get; set; }
@@ -62,6 +58,5 @@ namespace Access_Modifier
                 Console.WriteLine("Oga, Stop and Park there");
             }
         }
-
-    }
+        
 }
